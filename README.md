@@ -43,7 +43,7 @@ data temporarily.
                           │  Sign Up   │ │ Log In  │ │ List   │ │ Delete │ │  Exit  │
                           └─────┬──────┘ └───┬─────┘ │Accounts│ │Account │ └───┬────┘
                                 │            │       └───┬────┘ └──┬─────┘     │
-                                ▼            ▼            │        │         ▼
+                                ▼            ▼           │         │           ▼
               ┌─────────────────────────┐ ┌─────────────────────┐  │     ┌────────────┐
               │ Enter user details &    │ │ Enter username &    │  │     │  Thank You │
               │ validate (age, gender)  │ │ password to login   │  │     └────────────┘
